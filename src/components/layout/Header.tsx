@@ -1,3 +1,4 @@
+//header file of kisansetu
 import React, { useState, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { Menu, X, ShoppingCart, User, LogOut, Tractor, Sprout } from 'lucide-react';
