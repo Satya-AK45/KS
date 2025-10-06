@@ -1,58 +1,58 @@
-KisanSetu
+# KisanSetu
+
 KisanSetu is a digital platform designed to connect farmers directly with customers, empowering agricultural producers with AI-driven insights and providing fresh farm-direct produce to buyers at fair prices. The platform aims to create a sustainable agricultural ecosystem by eliminating middlemen and fostering transparency, efficiency, and profitability for all stakeholders.
 
-Features
-Farmer Dashboard:
-A comprehensive control panel for farmers to manage their products, track sales, and access valuable agricultural insights.
+## Features
 
-Direct Marketplace:
-Enables direct connection between farmers and customers, ensuring fair pricing without intermediaries.
+- **Farmer Dashboard:**  
+  A comprehensive control panel for farmers to manage their products, track sales, and access valuable agricultural insights.
 
-Crop Suggestions:
-AI-powered recommendations based on local weather, soil conditions, and market trends to help farmers choose optimal crops.
+- **Direct Marketplace:**  
+  Enables direct connection between farmers and customers, ensuring fair pricing without intermediaries.
 
-Market Insights:
-Real-time market data and price forecasts to guide farmers on the best times to sell their produce.
+- **Crop Suggestions:**  
+  AI-powered recommendations based on local weather, soil conditions, and market trends to help farmers choose optimal crops.
 
-Weather Forecasting:
-Accurate weather predictions to assist farmers in planning farming activities and protecting crops.
+- **Market Insights:**  
+  Real-time market data and price forecasts to guide farmers on the best times to sell their produce.
 
-Disease Detection:
-AI-driven diagnosis by uploading images of plants, providing disease identification and treatment recommendations.
+- **Weather Forecasting:**  
+  Accurate weather predictions to assist farmers in planning farming activities and protecting crops.
 
-How It Works
-Farmers List Products:
-Farmers register, create profiles, list their produce, and set fair prices informed by market data.
+- **Disease Detection:**  
+  AI-driven diagnosis by uploading images of plants, providing disease identification and treatment recommendations.
 
-Customers Shop:
-Customers browse the marketplace and order fresh produce directly from farmers.
+## How It Works
 
-Secure Payment & Delivery:
-Payments are securely processed via RazorPay, with fresh produce delivered directly from farm to table.
+1. **Farmers List Products:**  
+   Farmers register, create profiles, list their produce, and set fair prices informed by market data.
 
-Quick Links
-Marketplace
+2. **Customers Shop:**  
+   Customers browse the marketplace and order fresh produce directly from farmers.
 
-Crop Suggestions
+3. **Secure Payment & Delivery:**  
+   Payments are securely processed via RazorPay, with fresh produce delivered directly from farm to table.
 
-Disease Detection
+## Quick Links
 
-Market Insights
+- [Marketplace](https://kisansetu-gules.vercel.app/marketplace)  
+- [Crop Suggestions](https://kisansetu-gules.vercel.app/farmer/crop-suggestions)  
+- [Disease Detection](https://kisansetu-gules.vercel.app/farmer/disease-detection)  
+- [Market Insights](https://kisansetu-gules.vercel.app/farmer/market-insights)  
+- [Weather Forecast](https://kisansetu-gules.vercel.app/farmer/weather-forecast)  
+- [Register as Farmer](https://kisansetu-gules.vercel.app/register)  
+- [Farmer Dashboard](https://kisansetu-gules.vercel.app/farmer/dashboard)  
 
-Weather Forecast
+## Contact
 
-Register as Farmer
+- Address: 123 Agricultural Center, Farming District, IN 560001  
+- Phone: +91 1234567890  
+- Email: support@kisansetu.com  
 
-Farmer Dashboard
+## Technologies Used
 
-Contact
-Address: 123 Agricultural Center, Farming District, IN 560001
+*(Add technology stack and tools used here, e.g., React.js, Node.js, AI/ML services, payment gateway integrations, etc.)*
 
-Phone: +91 1234567890
+## License
 
-Email: support@kisansetu.com
-
-
-License
 © 2025 KisanSetu. All rights reserved.
-
